@@ -7,12 +7,19 @@ This Sudoku project is a comprehensive solution for both solving and playing Sud
 ## Key Components
 
 **ISudokuService**: Interface defining the core functionalities for the Sudoku service.
+
 **SudokuServiceImpl**: Implementation of the Sudoku service, handling the logic for solving puzzles.
+
 **Environment**: Configurations and environment settings for the Sudoku game.
+
 **SudokuBoard**: Represents the Sudoku board, managing the grid and cell values.
+
 **SudokuCell**: Represents an individual cell in the Sudoku board.
+
 **CellPosition**: Utility class for handling cell positions on the Sudoku board.
+
 **SudokuController**: Controller class that interfaces between the user input and the backend logic.
+
 **SudokuCLI**: Command Line Interface for interacting with the Sudoku game and solver.
 
 ## Features
